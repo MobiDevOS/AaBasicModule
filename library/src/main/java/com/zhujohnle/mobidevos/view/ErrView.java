@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
-import com.zhujohnle.library.R;
+import com.zhujohnle.aabasic.R;
 
 public class ErrView extends FrameLayout {
     TextView tvDesc;

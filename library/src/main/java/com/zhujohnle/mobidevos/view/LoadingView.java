@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.FrameLayout;
 
-import com.zhujohnle.library.R;
+import com.zhujohnle.aabasic.R;
 
 
 public class LoadingView extends FrameLayout {
